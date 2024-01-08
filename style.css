@@ -149,7 +149,7 @@ h3 {
 }
 
 /* Completed */
-#completed-tasks__list label {
+#completed-tasks__list .task__description {
   text-decoration: line-through;
   color: #888;
 }
